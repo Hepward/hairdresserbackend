@@ -1,0 +1,9 @@
+spring:
+  data:
+    mongodb:
+#      database: hairdresser
+      host: localhost
+      port: 2701
+      uri: mongodb://localhost/hairdress
+      username: admi
+      password: passwor
